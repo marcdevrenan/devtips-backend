@@ -1,0 +1,15 @@
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\bin\Debug\net7.0\devtips-backend.Domain.deps.json
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\bin\Debug\net7.0\devtips-backend.Domain.dll
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\bin\Debug\net7.0\devtips-backend.Domain.pdb
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\bin\Debug\net7.0\devtips-backend.Infrastructure.dll
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\bin\Debug\net7.0\devtips-backend.Infrastructure.pdb
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\obj\Debug\net7.0\devtips-backend.Domain.csproj.AssemblyReference.cache
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\obj\Debug\net7.0\devtips-backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\obj\Debug\net7.0\devtips-backend.Domain.AssemblyInfoInputs.cache
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\obj\Debug\net7.0\devtips-backend.Domain.AssemblyInfo.cs
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\obj\Debug\net7.0\devtips-backend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\obj\Debug\net7.0\devtips-backend.Domain.csproj.CopyComplete
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\obj\Debug\net7.0\devtips-backend.Domain.dll
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\obj\Debug\net7.0\refint\devtips-backend.Domain.dll
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\obj\Debug\net7.0\devtips-backend.Domain.pdb
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Domain\obj\Debug\net7.0\ref\devtips-backend.Domain.dll

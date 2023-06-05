@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Renan.Marcilio\\OneDrive - Leste\\Desktop\\devtips-backend\\devtips-backend.Domain\\devtips-backend.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Renan.Marcilio\\OneDrive - Leste\\Desktop\\devtips-backend\\devtips-backend.Domain\\devtips-backend.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renan.Marcilio\\OneDrive - Leste\\Desktop\\devtips-backend\\devtips-backend.Domain\\devtips-backend.Domain.csproj",
+        "projectName": "devtips-backend.Domain",
+        "projectPath": "C:\\Users\\Renan.Marcilio\\OneDrive - Leste\\Desktop\\devtips-backend\\devtips-backend.Domain\\devtips-backend.Domain.csproj",
+        "packagesPath": "C:\\Users\\Renan.Marcilio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renan.Marcilio\\OneDrive - Leste\\Desktop\\devtips-backend\\devtips-backend.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renan.Marcilio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\10.3.1.32\\NugetPackages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/1yccZdd57nt8tMcKqUUaYxdKXlu8u3ZvhpHYBvNyRP2665DTTt/api": {},
+          "https://pkgs.dev.azure.com/LesteDevOps/_packaging/leste-shared/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Renan.Marcilio\\OneDrive - Leste\\Desktop\\devtips-backend\\devtips-backend.Infrastructure\\devtips-backend.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Renan.Marcilio\\OneDrive - Leste\\Desktop\\devtips-backend\\devtips-backend.Infrastructure\\devtips-backend.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.30.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Renan.Marcilio\\OneDrive - Leste\\Desktop\\devtips-backend\\devtips-backend.Infrastructure\\devtips-backend.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Renan.Marcilio\\OneDrive - Leste\\Desktop\\devtips-backend\\devtips-backend.Infrastructure\\devtips-backend.Infrastructure.csproj",
+        "projectName": "devtips-backend.Infrastructure",
+        "projectPath": "C:\\Users\\Renan.Marcilio\\OneDrive - Leste\\Desktop\\devtips-backend\\devtips-backend.Infrastructure\\devtips-backend.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Renan.Marcilio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renan.Marcilio\\OneDrive - Leste\\Desktop\\devtips-backend\\devtips-backend.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renan.Marcilio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\10.3.1.32\\NugetPackages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/1yccZdd57nt8tMcKqUUaYxdKXlu8u3ZvhpHYBvNyRP2665DTTt/api": {},
+          "https://pkgs.dev.azure.com/LesteDevOps/_packaging/leste-shared/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

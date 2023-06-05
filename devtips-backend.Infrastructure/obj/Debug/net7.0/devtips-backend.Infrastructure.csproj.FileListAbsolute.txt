@@ -1,0 +1,12 @@
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Infrastructure\bin\Debug\net7.0\devtips-backend.Infrastructure.deps.json
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Infrastructure\bin\Debug\net7.0\devtips-backend.Infrastructure.dll
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Infrastructure\bin\Debug\net7.0\devtips-backend.Infrastructure.pdb
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Infrastructure\obj\Debug\net7.0\devtips-backend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Infrastructure\obj\Debug\net7.0\devtips-backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Infrastructure\obj\Debug\net7.0\devtips-backend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Infrastructure\obj\Debug\net7.0\devtips-backend.Infrastructure.AssemblyInfo.cs
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Infrastructure\obj\Debug\net7.0\devtips-backend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Infrastructure\obj\Debug\net7.0\devtips-backend.Infrastructure.dll
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Infrastructure\obj\Debug\net7.0\refint\devtips-backend.Infrastructure.dll
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Infrastructure\obj\Debug\net7.0\devtips-backend.Infrastructure.pdb
+C:\Users\Renan.Marcilio\OneDrive - Leste\Desktop\devtips-backend\devtips-backend.Infrastructure\obj\Debug\net7.0\ref\devtips-backend.Infrastructure.dll

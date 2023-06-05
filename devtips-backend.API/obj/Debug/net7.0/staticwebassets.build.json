@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Gv1E4zdyRHee6pinrXacDoee2p0K55UHHCgK5Nzw9LI=",
+  "Source": "devtips-backend.API",
+  "BasePath": "_content/devtips-backend.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
